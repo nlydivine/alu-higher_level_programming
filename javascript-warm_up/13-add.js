@@ -5,4 +5,3 @@ const add = (a, b) => a + b;
 
 // Make the function visible outside this file
 module.exports.add = add;
-
